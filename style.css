@@ -1,0 +1,14 @@
+.output {
+  display: flex;
+  justify-content: space-around;
+  background: #eeeeee;
+  margin-bottom: 8px;
+  height: 30px;
+  align-items: center;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.well {
+  background-color: #333333;
+  color: white;
+}
